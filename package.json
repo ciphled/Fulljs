@@ -1,0 +1,24 @@
+{
+  "name": "fulljs",
+  "version": "1.0.0",
+  "description": "MongoDB, Node and React practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciphled/Fulljs.git"
+  },
+  "keywords": [
+    "MonoDB",
+    "Node",
+    "React"
+  ],
+  "author": "Winton Nathan-Roberts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ciphled/Fulljs/issues"
+  },
+  "homepage": "https://github.com/ciphled/Fulljs#readme"
+}
